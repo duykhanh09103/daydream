@@ -1,19 +1,3 @@
-using UnityEngine;
-using System.Collections.Generic;
-using System.Collections; 
-
-[System.Serializable]
-public class CutsceneAction //Main file, the other files will inherit from this
-{
-    [SerializeField] string name;
-
-    public virtual IEnumerator Play()
-    {
-        yield break;
-    }
-    public string Name
-    {
-        get => name;
-        set => name = value;
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a869ab4cbcd8191150bde013744b96f6fb351b669dc474e25b41f70eadc661c4
+size 378

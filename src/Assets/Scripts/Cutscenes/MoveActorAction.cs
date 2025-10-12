@@ -1,21 +1,3 @@
-using UnityEngine;
-using System.Collections.Generic;
-using System.Collections;
-
-public class MoveActorAction : CutsceneAction //Script responsible for moving characters
-{
-    [SerializeField] Character character;
-
-    [SerializeField] List<Vector2> movePatterns;
-
-    CharacterController controller;
-
-    public override IEnumerator Play()
-    {
-        foreach (var moveVec in movePatterns)
-        {
-            yield return character.Move(moveVec);
-        }
-    }
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4b25251605b21947f86eb36dd874b69c8228689775bdec1bb5bc728501c10c9
+size 471

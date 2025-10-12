@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 15829edc33463431b8159c8b5b8c35f4
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 170878
-  packageName: Free Ui Pack
-  packageVersion: 1.0
-  assetPath: Assets/Free UI build package/Prefabs/Gray/Miscellaneous/BackGround.prefab
-  uploadId: 373354
+version https://git-lfs.github.com/spec/v1
+oid sha256:be9a851da19b05c4a023181b5eafffd9a66d56fd6f3696130abd1f847fa5ce78
+size 402

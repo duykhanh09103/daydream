@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 7020d1ba6d18a4c59b698daa55fe0dc8
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 170878
-  packageName: Free Ui Pack
-  packageVersion: 1.0
-  assetPath: Assets/Free UI build package/Prefabs/Gray/Sliders/Slider_4.prefab
-  uploadId: 373354
+version https://git-lfs.github.com/spec/v1
+oid sha256:102af2b291af8fbe52014e2613653bcc66825766116500fb9657ab8504bf4359
+size 394

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 0f0f65e4964e948d8a086b5077532dca
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 170878
-  packageName: Free Ui Pack
-  packageVersion: 1.0
-  assetPath: Assets/Free UI build package/Prefabs/Gray/Icons/Icon_2.prefab
-  uploadId: 373354
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5db7e05244661cdf7f63269ee8d7a1a42564a384dcc39f511bd249bf7136849
+size 390

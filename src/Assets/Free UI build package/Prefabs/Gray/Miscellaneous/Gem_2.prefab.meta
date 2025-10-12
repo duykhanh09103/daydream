@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 86f00dcf68d934d01b45177b5da333c5
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 170878
-  packageName: Free Ui Pack
-  packageVersion: 1.0
-  assetPath: Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Gem_2.prefab
-  uploadId: 373354
+version https://git-lfs.github.com/spec/v1
+oid sha256:45fd0a110e65043403432068e607e365a48649441388716859ba08f2c6b3a5a9
+size 397

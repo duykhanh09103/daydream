@@ -1,20 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3e21602d65d7de684982b147cc32905e, type: 3}
-  m_Name: day2 intro
-  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
-  dialogueName: 
-  dialogueLines:
-  - line: "Gabriel: Yuri! This book is scary! I need some assistance. Let\u2019s
-      go somewhere empty."
-    hasChoices: 0
-    choices: []
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcca35516064fa0393ec20138f5007bf1aa7bf97322c2ce0835b2cb6b9c32482
+size 600

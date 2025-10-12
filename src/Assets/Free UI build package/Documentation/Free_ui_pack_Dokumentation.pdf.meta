@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: fdbfe239c5eac403bad1e66d96868881
-DefaultImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 170878
-  packageName: Free Ui Pack
-  packageVersion: 1.0
-  assetPath: Assets/Free UI build package/Documentation/Free_ui_pack_Dokumentation.pdf
-  uploadId: 373354
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea209574ede90e45178b6d39c8c4842680cda24524df90a6bba0ef92baafeb06
+size 367

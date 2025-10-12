@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: b32a51bdd11fa114dbba1532c1833b77
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 329983
-  packageName: Pixel Art UI Essentials
-  packageVersion: 1.0
-  assetPath: Assets/DEVNIK 2D/2D UI PIXEL BUTTONS/README.txt
-  uploadId: 780706
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed3872a4f491fc62cd013b31a78fd8afd4714403cc2ac205ecac710c9a358144
+size 355

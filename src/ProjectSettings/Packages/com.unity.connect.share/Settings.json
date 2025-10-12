@@ -1,16 +1,3 @@
-{
-    "m_Dictionary": {
-        "m_DictionaryValues": [
-            {
-                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
-                "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/Emoli/Desktop/Big coding projects/gamejam game/magechoice/daydream/bruhhhh;C:/Users/Emoli/Desktop/Big coding projects/gamejam game/magechoice/daydream/builderbabyyyy;C:/Users/Duy's pc/My project/My project/build;;;;;;;\"}"
-            },
-            {
-                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
-                "key": "firstTime",
-                "value": "{\"m_Value\":true}"
-            }
-        ]
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1142ecbc619f9168798f5eb3b6ee1df62f5c5d9b4451074691089b806240fa17
+size 767

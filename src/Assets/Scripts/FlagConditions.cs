@@ -1,12 +1,3 @@
-using System;
-using UnityEngine;
-
-[Serializable]
-public class FlagCondition
-{
-    [Tooltip("The name of the story flag to check (must exist in StoryFlags asset).")]
-    public string flagName;
-
-    [Tooltip("The required value of that flag for this condition to pass.")]
-    public bool requiredValue = true;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:79ce2c411728981b9523ae9a6d60b3bccd2f2e4507e8a5d25aa94d07b5c00d96
+size 323

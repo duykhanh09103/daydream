@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 46a84c550a2054af88948ccfcffde9e2
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 170878
-  packageName: Free Ui Pack
-  packageVersion: 1.0
-  assetPath: Assets/Free UI build package/Prefabs/Gray/Buttons/Button_4.prefab
-  uploadId: 373354
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d953282735d9265293c18a239dc1bf1c6864f69f589f020fe2c1af95eefd018
+size 394

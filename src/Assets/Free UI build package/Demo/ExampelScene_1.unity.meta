@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 2548bd7aeca2047ec8b6d50f5d06f50a
-DefaultImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 170878
-  packageName: Free Ui Pack
-  packageVersion: 1.0
-  assetPath: Assets/Free UI build package/Demo/ExampelScene_1.unity
-  uploadId: 373354
+version https://git-lfs.github.com/spec/v1
+oid sha256:757576c963e567c267732f8e8df2e3213002d964d596b64b960d9a9efad96f99
+size 348

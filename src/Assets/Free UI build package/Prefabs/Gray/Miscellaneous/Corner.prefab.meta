@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 64e6e55d836204be7a3c18cf522e97ba
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 170878
-  packageName: Free Ui Pack
-  packageVersion: 1.0
-  assetPath: Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Corner.prefab
-  uploadId: 373354
+version https://git-lfs.github.com/spec/v1
+oid sha256:58fcda631b429ee196aeb4d1bdc0e4c0438201776c370b84b81d444616af7894
+size 398

@@ -1,27 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3e21602d65d7de684982b147cc32905e, type: 3}
-  m_Name: Opening
-  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
-  dialogueName: Intro
-  dialogueLines:
-  - line: '???: This is rather nice timing...'
-    hasChoices: 1
-    choices:
-    - choiceText: Who are you?
-      jumpToLineInSameDialogue: 0
-      targetLineIndex: 1
-      nextDialogue: {fileID: 11400000, guid: 431e123c483753e53881395c4de7d316, type: 2}
-    - choiceText: What is this place?
-      jumpToLineInSameDialogue: 0
-      targetLineIndex: 1
-      nextDialogue: {fileID: 11400000, guid: 4181120d6cd6165c2b463aa166ff104a, type: 2}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8da85bb41e9a3f12ec43a71808f8d567f8fbf6867d741f948e2dd0a68c3d9603
+size 901

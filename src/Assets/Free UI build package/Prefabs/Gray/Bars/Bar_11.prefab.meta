@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 86af10e34574a478c91e0ae5121fcef3
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 170878
-  packageName: Free Ui Pack
-  packageVersion: 1.0
-  assetPath: Assets/Free UI build package/Prefabs/Gray/Bars/Bar_11.prefab
-  uploadId: 373354
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b317b5994ff9cd1bf8a3727d9e1de9ea0e2bd1a3fa9eefea79c4bbdd5b7e790
+size 389

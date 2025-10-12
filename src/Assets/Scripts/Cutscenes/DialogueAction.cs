@@ -1,13 +1,3 @@
-using UnityEngine;
-using System.Collections.Generic;
-using System.Collections; 
-
-public class DialogueAction : CutsceneAction //Script responsible for showing dialogue
-{
-    [SerializeField] Dialogue dialogue;
-
-    public override IEnumerator Play()
-    {
-        yield return DialogueManager.Instance.StartDialogue(dialogue);
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a8d840781777cc2617721203575725104478defb5b338d59d703fa7f6bf0970
+size 335

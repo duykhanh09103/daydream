@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: b0867d6b9536a4c16b4310662f53ba1d
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 170878
-  packageName: Free Ui Pack
-  packageVersion: 1.0
-  assetPath: Assets/Free UI build package/Prefabs/Gray/Dropdowns/Dropdown_1.prefab
-  uploadId: 373354
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a9ae34e307c5ee9af7196c5397dbb3006107b076345f6ec67638e99d6d0c99c
+size 398

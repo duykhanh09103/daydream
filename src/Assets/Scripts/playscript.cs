@@ -1,35 +1,3 @@
-using UnityEngine;
-using UnityEngine.SceneManagement;
-
-public class playscript : MonoBehaviour
-{
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Quit()
-    {
-        Application.Quit();
-    }
-
-    public void LoadScene()
-    {
-        Debug.Log("Button clicked!");
-        SceneManager.LoadScene("intro");
-        PlayerPrefs.DeleteAll();
-        Debug.Log("All PlayerPrefs have been cleared.");
-    ;
-    }
-    public void LoadIntro()
-    {
-        Debug.Log("Button clicked!");
-        SceneManager.LoadScene("intro");
-        PlayerPrefs.DeleteAll();
-        Debug.Log("All PlayerPrefs have been cleared.");
-    ;
-    }
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:39fa36c83c4607cf226375cde6d1ac4a687d021af3c5743158cf31a99b73cd4e
+size 792

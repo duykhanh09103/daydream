@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 21c03fded03f94d46a8e962c9be8eb64
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 170878
-  packageName: Free Ui Pack
-  packageVersion: 1.0
-  assetPath: Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Frame_2.prefab
-  uploadId: 373354
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bcd6eb7634d9a4f199bc31df994a5cb80152d6577c202fff8272c2e1b74db60
+size 399

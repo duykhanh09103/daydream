@@ -1,4 +1,3 @@
-repository "My project/My project@18968334627278@cloud"
-  path "/"
-    br "/main"
-    co "/main"
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d610e23b29f426b2da77c679dec67391dc3fe58294292bdbac7d7891ef129df
+size 101
