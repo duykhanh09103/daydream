@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e21602d65d7de684982b147cc32905e, type: 3}
+  m_Name: servus greeting
+  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
+  dialogueName: 
+  dialogueLines:
+  - line: 'Gabriel: Hi Professor!'
+    hasChoices: 0
+    choices: []
+  - line: Hello Professor Servus.
+    hasChoices: 0
+    choices:
+    - choiceText: Hi Professor Servus.
+      jumpToLineInSameDialogue: 0
+      targetLineIndex: 0
+      nextDialogue: {fileID: 0}
+  - line: 'Servus: I want to quickly inform you two about a dark magic leak in the
+      academy. We are trying to contain the source.'
+    hasChoices: 0
+    choices:
+    - choiceText: Hi Professor Servus.
+      jumpToLineInSameDialogue: 0
+      targetLineIndex: 0
+      nextDialogue: {fileID: 0}
+  - line: 'Servus: Rest assured, however, it will only take us 3 days to resolve
+      the matter.'
+    hasChoices: 0
+    choices:
+    - choiceText: Hi Professor Servus.
+      jumpToLineInSameDialogue: 0
+      targetLineIndex: 0
+      nextDialogue: {fileID: 0}
+  - line: "Servus: I\u2019ll leave you two informed when there's new information.
+      Have a nice day."
+    hasChoices: 0
+    choices:
+    - choiceText: Hi Professor Servus.
+      jumpToLineInSameDialogue: 0
+      targetLineIndex: 0
+      nextDialogue: {fileID: 0}

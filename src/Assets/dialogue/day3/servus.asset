@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e21602d65d7de684982b147cc32905e, type: 3}
+  m_Name: servus
+  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
+  dialogueLines:
+  - line: "Voldem: Huh. Of course you would always crawl back to your \u201Creal\u201D
+      teacher\u2026"
+    hasChoices: 0
+    choices: []
+    conditions:
+    - flagName: 
+      requiredValue: 0
+  - line: "Servus: Thank you for making the correct choice. I\u2019ll lighten your
+      punishment as much as I can. I can\u2019t lose you\u2026"
+    hasChoices: 0
+    choices: []
+    conditions:
+    - flagName: 
+      requiredValue: 0
+  isRepeatable: 0
+  isEndingDialogue: 1
+  endingFlagToSet: 
+  endingFlagValue: 0

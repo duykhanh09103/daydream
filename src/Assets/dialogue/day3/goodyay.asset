@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e21602d65d7de684982b147cc32905e, type: 3}
+  m_Name: goodyay
+  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
+  dialogueLines:
+  - line: 'Gabriel: Woah! What happened'
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: 'Servus: We''re back from the dead Gabriel'
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: 'Servus: We''re back from the dead Gabriel.'
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: 'Gabriel: What about Yuri?'
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: 'Servus: I''m afraid that he might not come back...'
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: 'Servus: I''m afraid that he might not come back...'
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: 'Servus: He''s too deep into dark magic. But atleast, he made the right
+      choice.'
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: 'Gabriel: How so?'
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: 'Servus: A dark magic user that harmed others with their magic will have
+      a chance to atone by bring people back from the dead.'
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: 'Servus: At the cost of their own life. However that is not fully certain...'
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: 'Servus: But Yuri is a noble soul. The least we can do is hoping that he''s
+      ok...'
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: 'Gabriel: Thanks Yuri.. *sniffs* Please be safe...'
+    hasChoices: 0
+    choices: []
+    conditions: []
+  isRepeatable: 0
+  isEndingDialogue: 0
+  endingFlagToSet: 
+  endingFlagValue: 0

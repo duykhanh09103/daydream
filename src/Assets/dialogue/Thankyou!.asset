@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e21602d65d7de684982b147cc32905e, type: 3}
+  m_Name: Thankyou!
+  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
+  dialogueLines:
+  - line: Thank you so much for playing to one of the endings! I am very greatful!
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: I have a lot more planned but due to the jam's time limit and my personal
+      life, I couldn't implement them.
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: However, I hope that you had a good time playing this game. Have a good
+      one!
+    hasChoices: 0
+    choices: []
+    conditions: []
+  - line: If you want to experience other endings, reload the page and keep playing!
+    hasChoices: 0
+    choices: []
+    conditions: []
+  isRepeatable: 0
+  isEndingDialogue: 0
+  endingFlagToSet: 
+  endingFlagValue: 0
